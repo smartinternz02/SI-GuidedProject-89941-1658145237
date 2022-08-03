@@ -1,0 +1,11 @@
+body {
+	background-image: url("img.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+		}
+h3{
+    color:white;
+    background-color:black;
+}
